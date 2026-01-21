@@ -1,0 +1,25 @@
+[DetailsMode]
+LeftPadding=19
+PreviewSize=80
+
+[ExtractDialog]
+1536x864 screen: Height=799
+1536x864 screen: Width=884
+1920x1080 screen: Height=540
+1920x1080 screen: Width=1256
+DirHistory[$e]=$HOME/VSCode/Web2Final/,$HOME/VSCode/CSCI426_Midterm_Template/exam_folder/node_modules/,$HOME/Downloads/,$HOME/VSCode/MyPHP/,$HOME/Documents/,$HOME/Applications/Minecraft Bedrock Launcher/
+
+[General]
+RememberOpenedTabs=false
+Version=202
+ViewPropsTimestamp=2025,3,31,19,9,13.372
+
+[IconsMode]
+PreviewSize=160
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[PreviewSettings]
+Plugins=audiothumbnail,blenderthumbnail,comicbookthumbnail,cursorthumbnail,directorythumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,ffmpegthumbs,fontthumbnail,gsthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,mobithumbnail,opendocumentthumbnail,rawthumbnail,svgthumbnail,windowsexethumbnail,windowsimagethumbnail,avif,gdk-pixbuf-thumbnailer,jxl,webp-pixbuf

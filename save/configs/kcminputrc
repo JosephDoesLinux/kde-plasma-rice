@@ -1,0 +1,13 @@
+[Libinput][1267][12826][ELAN07FB:00 04F3:321A Touchpad]
+Enabled=true
+TapDragLock=true
+
+[Libinput][1356][3302][DualSense Wireless Controller Touchpad]
+Enabled=true
+
+[Libinput][1356][3302][Sony Interactive Entertainment DualSense Wireless Controller Touchpad]
+Enabled=true
+
+[Libinput][5426][152][Razer Razer DeathAdder Essential]
+PointerAcceleration=0.000
+PointerAccelerationProfile=1

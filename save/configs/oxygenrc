@@ -1,0 +1,12 @@
+[ActiveShadow]
+InnerColor=0,85,0
+ShadowSize=25
+UseOuterColor=false
+
+[Windeco Exception 0]
+BorderSize=1
+Enabled=true
+ExceptionPattern=.*
+ExceptionType=0
+HideTitleBar=true
+Mask=0

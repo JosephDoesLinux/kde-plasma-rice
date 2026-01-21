@@ -1,0 +1,34 @@
+[6ad628fa-a063-479e-b52a-43132d88ce40]
+Description=Application settings for Vmware
+clientmachine=localhost
+disableglobalshortcuts=true
+disableglobalshortcutsrule=2
+wmclass=vmware Vmware
+wmclasscomplete=true
+wmclassmatch=1
+
+[General]
+count=3
+rules=6ad628fa-a063-479e-b52a-43132d88ce40,d34a22dc-180a-4b5c-a51b-9548d7b71050,aa63c4ac-5987-40d1-b509-a00764fe92a1
+
+[aa63c4ac-5987-40d1-b509-a00764fe92a1]
+Description=Window settings for Picture in picture
+above=true
+aboverule=3
+desktops=\\0
+desktopsrule=3
+title=Picture in picture
+titlematch=1
+wmclass=brave brave
+wmclasscomplete=true
+wmclassmatch=1
+
+[d34a22dc-180a-4b5c-a51b-9548d7b71050]
+Description=Window settings for com.example.products
+noborder=true
+noborderrule=2
+title=products
+types=1
+wmclass=products com.example.products
+wmclasscomplete=true
+wmclassmatch=1

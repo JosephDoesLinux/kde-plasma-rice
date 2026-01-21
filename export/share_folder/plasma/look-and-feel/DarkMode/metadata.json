@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "josephabouantoun4@gmail.com",
+                "Name": "Joseph"
+            }
+        ],
+        "Description": "Dark",
+        "Id": "DarkMode",
+        "License": "LGPL 2.1+",
+        "Name": "DarkMode",
+        "Website": "https://www.google.com"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;",
+    "X-Plasma-APIVersion": "2",
+    "X-Plasma-MainScript": "default"
+}
