@@ -12,7 +12,7 @@ font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal"
 >
 </g>
 
-<g fill="#48e498" fill-opacity="0.719997" stroke="#48e498" stroke-opacity="1" stroke-width="2.5025" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2.5,2.5)"
+<g fill="#216a46" fill-opacity="0.719997" stroke="#216a46" stroke-opacity="1" stroke-width="2.5025" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2.5,2.5)"
 font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
 >
 <path vector-effect="none" fill-rule="evenodd" d="M-1.25125,8.74875 C-1.25125,3.2259 3.2259,-1.25125 8.74875,-1.25125 L36.2512,-1.25125 C41.7741,-1.25125 46.2512,3.2259 46.2512,8.74875 L46.2512,36.2512 C46.2512,41.7741 41.7741,46.2512 36.2512,46.2512 L8.74875,46.2512 C3.2259,46.2512 -1.25125,41.7741 -1.25125,36.2512 L-1.25125,8.74875"/>
@@ -23,10 +23,10 @@ font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal"
 >
 </g>
 
-<g fill="none" stroke="#353230" stroke-opacity="1" stroke-width="1.001" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2.5,2.5)"
+<g fill="none" stroke="#e4dedb" stroke-opacity="1" stroke-width="1.001" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2.5,2.5)"
 font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
 >
-<image x="0" y="0" width="45" height="45" preserveAspectRatio="none" image-rendering="optimizeSpeed" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAtCAYAAAA6GuKaAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABBklEQVRYhe3SQWrCQBSH8a+2h0hIt92L4LLgGepG8Aq9Rw8gPYLQYwhdCuLCVcBtkjsUpJs8sFJNMvMGN/9vMwTCmx+PAaWUUkopdZ+mk/FzqtmjFEOnk/ECOLane4/eA1voGngC3oo8K6u6OXje4brpMzDAZ3uuvTfuhr4AL7e7/TuwbL9d4S7P4x/wF0BVN4ciz0pgDsy9nko0+hrYSgGPQneBLW94MLov2PKEB6GHgi0v+GB0KNjygA9Cx4KtWHhvtBfYioH3QnuDrVB4JzoV2AqBP3SAX4FNKvDFXefLmW13++9r/97cdJFnFfACfKQE83fjP8CqqptTyvuUUkoppZRy6Bdtr8OqeuCZmQAAAABJRU5ErkJggg==" />
+<image x="0" y="0" width="45" height="45" preserveAspectRatio="none" image-rendering="optimizeSpeed" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAtCAYAAAA6GuKaAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA5klEQVRYhe3UsQnCQBSH8U9xjKsCGUNwAXshK7iOIwTSu4Bg4RDBq24OsblCgprL3Tu0+H9NCAnv/ThCQCmllFJK/abgR1dr9rrG0ODHA3CPV/NW1gMjtI8H8gA617SD5Q7Tk34BA5zitbc+cTP0BNy5pj0CXbw3hZt8Hm/AQ8qz3IrRKShreBF6CcYSno3OQVjBs9Alyy3gi9EWS0tnLEJbfpcls5LRNX5duTOT0DXAJbNn0TXBuTu+ooMft8AldVhJE/jONe3107ubmVk3YADONcEArmmH4EeAfdyrlFJKKaXUv/cEafuWAmg7eH0AAAAASUVORK5CYII=" />
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
